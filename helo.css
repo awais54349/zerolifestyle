@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+.cont1{
+    height: 50px;
+    width: 20%;
+    background-color: black;
+   
+
+}
+.cont1 img{
+    filter: brightness(0) invert(1) !important;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.cont2{
+    height: 50px;
+    width: 60%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    
+
+}
+.cont2 li{
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.cont3{
+    height: 50px;
+    width: 20%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+
+}
+.cont3 i{
+    margin-left: 20px;
+     
+}
+.watchescont{
+    height: 150px;
+    width: 100%;
+    
+    position: relative;
+}
+.watches{
+    height: 100px;
+    width: 90%;
+    position: absolute;
+    top: 40px;
+    left: 95px;
+    
+
+}
+.watchtitle{
+    width: 90%;
+    display: flex;
+    margin-top: 15px;
+    gap: 17px;
+    margin-left: 120px;
+    
+}
