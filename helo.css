@@ -78,3 +78,24 @@
     margin-left: 120px;
     
 }
+.zbudsviewall{
+    height: 30px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: 28px;
+    
+}
+.cardscont{
+    height: 550px;
+    width: 100%;
+    background-color: aqua;
+}
+.card1{
+    height: 540px ;
+    width: 20%;
+    background-image: url(https://zerolifestyle.co/cdn/shop/files/Zero_Quantum_Green_01.png?v=1709926537) ;
+    background-size: cover;
+    background-position: center;
+    
+
+}
